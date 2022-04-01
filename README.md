@@ -21,6 +21,6 @@ This repository is for archiving outputs from organizing and drawing marketing d
 - Network Analysis
 - Tag Analysis
 
-###### <i> Sales dataset is not shown due to confidential issues.</i>
+###### <i> Sales dataset and detailed information are not shown due to confidential issues.</i>
 
 
